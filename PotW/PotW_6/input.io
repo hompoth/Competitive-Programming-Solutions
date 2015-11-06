@@ -1,0 +1,7 @@
+6
+vote_140_prof announce_140_prof
+vote_140_prof first_day_of_classes
+dev_shed_algo vote_140_prof
+dev_shed_algo do_hair
+do_hair big_meeting
+big_meeting first_day_of_classes
