@@ -1,1 +1,0 @@
-class PotW_Prac
